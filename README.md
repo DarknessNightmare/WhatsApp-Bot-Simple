@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/5a28bc4534bf122fcc882.jpg" alt="EBOT MD" width="250"/>
+<img src="https://telegra.ph/file/ea97b54ada797c9ca5fa8.jpg" alt="WhatsApp Bot Simple" width="250"/>
 
 
 </p>
@@ -21,7 +21,7 @@
 
 ---
 
-# Ebot Whatsapp MD
+# WhatsApp Bot Simple With Baileys Multi-Device
 ## Information
 >  WhatsApp Bot Simple using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
